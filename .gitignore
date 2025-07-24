@@ -1,9 +1,10 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
-Build
-Plugins/Developer/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+CRPG/Plugins/Developer/
+DefaultEditor.ini
 
 .vscode
 .vs
@@ -15,5 +16,6 @@ Plugins/Developer/
 *.sdf
 *.sln
 *.suo
+*.user
 *.xcodeproj
 *.xcworkspace
